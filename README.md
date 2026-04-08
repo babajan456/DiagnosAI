@@ -79,15 +79,6 @@ We developed an **Integrated Patient Care Dashboard** that uses AI and Machine L
 - Real-time doctor recommendation  
 - IoT health monitoring  
 - Mobile app version  
-
----
-
-## 👥 Team
-- Mohammed Yaseen Agha  
-- Nandish S K  
-- P. Sujith  
-- Nithin M  
-
 ---
 
 ## 📌 Conclusion
